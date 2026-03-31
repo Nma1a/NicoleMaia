@@ -10,9 +10,10 @@ I am a Computer Science student focused on building real-world intelligent syste
 
 
 ## Technical Skills
-**Languages:** C, Java, Python  
-**Technologies:** OpenCV, ROS2, FastAPI, NumPy, Pandas, Scikit-learn  
-**Tools:** Git, Linux, VS Code, Jupyter Notebook  
+**Languages:** C++, Java, Python, SQL, JavaScript, HTML
+**Backend & Databases:** OpenCV, ROS2, FastAPI, Node.js, SQLite
+**Libraries:** NumPy, Pandas, Matplotlib, scikit-learn, SciPy
+**Tools & OS:** Git, Linux, VS Code, Jupyter Notebook, Android Studio, GitHub, Google Cloud Platform, Blender, macOS, Windows
 
 
 ## Projects
